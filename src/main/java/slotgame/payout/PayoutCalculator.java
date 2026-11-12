@@ -1,4 +1,4 @@
-package main.jawa.slotgame.payout;
+package slotgame.payout;
 
 public class PayoutCalculator {
 }
