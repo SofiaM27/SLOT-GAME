@@ -1,4 +1,4 @@
-package main.jawa.slotgame.model;
+package slotgame.model;
 
 
 public enum Symbol {

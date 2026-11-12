@@ -1,4 +1,4 @@
-package main.jawa.slotgame.model;
+package slotgame.model;
 
 import java.util.List;
 import java.util.Objects;

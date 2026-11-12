@@ -1,4 +1,4 @@
-package main.jawa.slotgame.analysis;
+package slotgame.analysis;
 
 public class ProbabilityAnalyzer {
 }
